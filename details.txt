@@ -1,0 +1,6 @@
+Heroku home page link: https://chessleadschool.herokuapp.com/
+
+Heroku code move link: https://chessleadschool.herokuapp.com/C88
+
+
+Github repo link: https://github.com/KDigvijay01/ChessLeadSchool.git
